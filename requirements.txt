@@ -4,3 +4,6 @@ ipykernel==6.29.5
 pylzma==0.5.0
 jupyter
 torch
+pandas
+transformers==4.44.2
+accelerate
