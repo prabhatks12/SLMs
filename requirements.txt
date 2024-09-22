@@ -7,3 +7,5 @@ torch
 pandas
 transformers==4.44.2
 accelerate
+torchtext==0.17.2
+gradio 4.44.0
